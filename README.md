@@ -7,7 +7,7 @@ and live webcam feeds with intelligent road condition assessment.
 ---
 
 ## 🌐 Live Demo
-🔗 [Click here to view the app](#) <!-- Replace with your Streamlit URL after deployment -->
+🔗 [Click here to view the app](https://ai-pothole-detection-system.streamlit.app/)
 
 ---
 
