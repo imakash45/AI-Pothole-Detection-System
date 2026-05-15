@@ -59,6 +59,7 @@ and live webcam feeds with intelligent road condition assessment.
 
 ## 📂 Project Structure
 
+```
 AI_POTHOLE_DETECTION/
 ├── app/
 │   ├── app1.py          # Main Streamlit application
@@ -71,6 +72,7 @@ AI_POTHOLE_DETECTION/
 ├── best.pt              # Trained YOLOv8 model weights
 ├── requirements.txt     # Project dependencies
 └── .gitignore           # Git ignore rules
+```
 
 ---
 
