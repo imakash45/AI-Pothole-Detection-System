@@ -1,0 +1,20 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Virtual Environment
+project_venv/
+
+# Data folder (images, datasets - too large)
+data/
+
+# Notebooks (not needed for deployment)
+notebooks/
+
+# OS files
+.DS_Store
+Thumbs.db
