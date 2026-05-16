@@ -1,0 +1,6 @@
+project_venv/
+data/
+notebooks/
+__pycache__/
+.idea/
+*.pyc
